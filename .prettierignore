@@ -1,0 +1,7 @@
+**/dist
+**/node_modules
+**/.eslintrc.json
+**/tsconfig*.json
+**/package.json
+**/package-lock.json
+**/yarn.lock
